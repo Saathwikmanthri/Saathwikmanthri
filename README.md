@@ -1,85 +1,81 @@
-# Hello 👋, I'm Saathwik Manthri
+# Hi there! 👋 I'm Saathwik Manthri
 
-💻 Computer Science & Engineering Student at Lovely Professional University  
-🚀 Passionate about Software Development, Machine Learning & Cybersecurity  
-🤖 Exploring AI, Data Engineering, and Intelligent Systems  
-🌱 Constantly learning new technologies and solving real-world problems  
-⚡ Strong foundation in Data Structures and Algorithms  
-🎯 Interested in Backend Development, Machine Learning, and System Design  
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub">
+  </a>
+</p>
 
-## 🌐 Connect With Me
+### 🚀 About Me
+I am a **Computer Science & Engineering Student** at **Lovely Professional University**. I am highly passionate about Software Development, Machine Learning, and Cybersecurity. Currently, I am expanding my knowledge in AI, Data Engineering, and Intelligent Systems while building a strong foundation in Data Structures and Algorithms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/saathwik-manthri13])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saathwikmanthri)
-
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+- 🧠 **Exploring:** AI, Data Engineering, and Intelligent Systems
+- 💻 **Interests:** Backend Development, Machine Learning, and System Design
+- 🌱 **Mindset:** Constantly learning new technologies and solving real-world problems
 
 ---
 
-# 🚀 Featured Projects
+### 💻 Tech Stack
 
-### 🔍 Fake Social Media Accounts Detection
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://shields.io) ![Java](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) |
+| **Backend & Databases** | ![Node.js](https://shields.io) ![SQLite](https://shields.io) |
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
+| **Tools & Platforms** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔍 [Fake Social Media Accounts Detection](https://github.com)
 - Built a Machine Learning pipeline to classify real and fake social media accounts.
-- Used Logistic Regression and Ensemble Models.
-- Achieved **96% accuracy**.
-- Included preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
+- Used Logistic Regression and Ensemble Models to achieve **96% accuracy**.
+- Handled complete preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
 
-### 📚 Kids Learning Application
-- Java Swing based educational application.
-- Flashcards, quizzes, and video learning modules.
-- Implemented Linked Lists, TreeMaps, and Stacks for content management.
+#### 📚 [Kids Learning Application](https://github.com)
+- Developed a Java Swing-based educational application featuring flashcards, quizzes, and video learning modules.
+- Implemented **Linked Lists**, **TreeMaps**, and **Stacks** for efficient backend content management.
 
-### 🔒 Secure File Management System
-- Password-protected file management system in C.
-- Features: File creation, reading, metadata extraction, and modification.
-- Implemented secure authentication and access control.
+#### 🔒 [Secure File Management System](https://github.com)
+- Created a password-protected file management system written entirely in C.
+- Built features for file creation, reading, metadata extraction, and safe modification.
+- Implemented secure authentication layers and strict access control.
 
 ---
 
-# 🏆 Certifications
-
-🏅 Fundamentals of Network Communication – Coursera  
-🏅 Data Engineering with Rust – Coursera  
-🏅 Connect and Protect: Networks and Network Security – Coursera  
-🏅 Master Generative AI & Generative AI Tools – Infosys  
-🏅 Build Generative AI Apps and Solutions with No-Code Tools – Infosys  
-
----
-
-# 🏅 Achievements
-
-✅ Developed an RFID-based Hospital Patient Management System  
-✅ Solved 75+ Java problems on CodeChef and GeeksforGeeks  
-✅ Participated in CyberSec Symposium 2.0  
+### 🏆 Certifications
+- 🏅 **Data Engineering with Rust** – Coursera
+- 🏅 **Master Generative AI & Generative AI Tools** – Infosys
+- 🏅 **Connect and Protect: Networks and Network Security** – Coursera
+- 🏅 **Fundamentals of Network Communication** – Coursera
+- 🏅 **Build Generative AI Apps and Solutions with No-Code Tools** – Infosys
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=saathwikmanthri&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=saathwikmanthri&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saathwikmanthri&layout=compact&theme=tokyonight)
+### 🏅 Achievements & Activities
+- ✅ **RFID Innovation:** Developed an RFID-based Hospital Patient Management System.
+- ✅ **Problem Solving:** Solved 75+ Java problems on CodeChef and GeeksforGeeks.
+- ✅ **Community:** Participated actively in the CyberSec Symposium 2.0.
 
 ---
 
-### 💡 Quote
+### 📈 GitHub Analytics
 
-"Code. Learn. Build. Repeat."
-```
+<p align="center">
+  <img src="https://vercel.app" alt="Saathwik's GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="Saathwik's Streak Stats" width="48%" />
+</p>
 
-This version is optimized for GitHub profile visibility and highlights your projects, skills, certifications, and achievements from your CV. 
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <em>💡 "Code. Learn. Build. Repeat."</em>
+</p>

@@ -65,14 +65,9 @@ I am a **Computer Science & Engineering Student** at **Lovely Professional Unive
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Saathwik's GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Saathwik's Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="60%" />
-</p>
+![](https://vercel.app)
+![](https://herokuapp.com)
+![](https://vercel.app)
 
 ---
 

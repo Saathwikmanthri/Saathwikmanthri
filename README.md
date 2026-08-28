@@ -22,25 +22,25 @@ I am a **Computer Science & Engineering Student** at **Lovely Professional Unive
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![Java](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) |
-| **Backend & Databases** | ![Node.js](https://shields.io) ![SQLite](https://shields.io) |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Tools & Platforms** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
+| **Languages** | <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="C" /> |
+| **Backend & Databases** | <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="SQLite" /> |
+| **Frontend** | <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> |
+| **Tools & Platforms** | <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔍 [Fake Social Media Accounts Detection](https://github.com)
+#### 🔍 Fake Social Media Accounts Detection
 - Built a Machine Learning pipeline to classify real and fake social media accounts.
 - Used Logistic Regression and Ensemble Models to achieve **96% accuracy**.
 - Handled complete preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
 
-#### 📚 [Kids Learning Application](https://github.com)
+#### 📚 Kids Learning Application
 - Developed a Java Swing-based educational application featuring flashcards, quizzes, and video learning modules.
 - Implemented **Linked Lists**, **TreeMaps**, and **Stacks** for efficient backend content management.
 
-#### 🔒 [Secure File Management System](https://github.com)
+#### 🔒 Secure File Management System
 - Created a password-protected file management system written entirely in C.
 - Built features for file creation, reading, metadata extraction, and safe modification.
 - Implemented secure authentication layers and strict access control.
